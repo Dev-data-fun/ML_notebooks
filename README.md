@@ -57,3 +57,17 @@ Current notebooks:
 A notebook exploring 4 dimension reduction techniques (2 linear, 2 manifold) on toy sklearn datasets. Projections are made into 2D and 3D spaces to see strengths/weaknesses of the methods.
 
 <a href="https://colab.research.google.com/drive/11RL8cFnpsKxjJJshCumI7zBvDdyNLo9B">Open in Google Colab</a>
+
+## Tensorflow Certification
+
+Google have launched <a href="https://www.tensorflow.org/certificate>"TF certification</a>. The exam is spread across 5 categories:
+
+  1. Basic / Simple model
+  2. Model from learning dataset
+  3. Convolutional Neural Network with real-world image dataset
+  4. NLP Text Classification with real-world text dataset
+  5. Sequence Model with real-world numeric dataset
+  
+Each of these are covered in notebooks below:
+
+ 
