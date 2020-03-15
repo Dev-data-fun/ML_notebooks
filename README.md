@@ -60,7 +60,7 @@ A notebook exploring 4 dimension reduction techniques (2 linear, 2 manifold) on 
 
 ## Tensorflow Certification
 
-Google have launched <a href="https://www.tensorflow.org/certificate>"TF certification</a>. The exam is spread across 5 categories:
+Google have launched <a href="https://www.tensorflow.org/certificate">TF certification</a>. The exam is spread across 5 categories:
 
   1. Basic / Simple model
   2. Model from learning dataset
