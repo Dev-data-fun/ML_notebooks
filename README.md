@@ -2,7 +2,7 @@
 
 Housing for ML notebook tutorials. Goal is to write more in depth explanations as text tutorials and use the notebooks below for demonstration. 
 
-## Neural Networks
+## Neural Networks (Tensorflow2)
 
 The below notebooks are written using Tensorflow 2.1.
 
