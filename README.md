@@ -68,6 +68,8 @@ Google have launched <a href="https://www.tensorflow.org/certificate">TF certifi
   4. NLP Text Classification with real-world text dataset
   5. Sequence Model with real-world numeric dataset
   
-Each of these are covered in notebooks below:
+Each of these are covered in the notebooks below:
+
+(IN-PROGRESS)
 
  
