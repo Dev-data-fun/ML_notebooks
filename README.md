@@ -58,7 +58,7 @@ A notebook exploring 4 dimension reduction techniques (2 linear, 2 manifold) on 
 
 <a href="https://colab.research.google.com/drive/11RL8cFnpsKxjJJshCumI7zBvDdyNLo9B">Open in Google Colab</a>
 
-## Tensorflow Certification
+## TF Certification
 
 Google have launched <a href="https://www.tensorflow.org/certificate">TF certification</a>. The exam is spread across 5 categories:
 
@@ -69,6 +69,8 @@ Google have launched <a href="https://www.tensorflow.org/certificate">TF certifi
   5. Sequence Model with real-world numeric dataset
   
 Each of these are covered in the notebooks below:
+
+  1. DL_part1.ipynb - (Category 1 & 2)
 
 (IN-PROGRESS)
 
