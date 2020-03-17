@@ -70,13 +70,22 @@ Google have launched <a href="https://www.tensorflow.org/certificate">TF certifi
   
 This <a href="https://www.coursera.org/specializations/tensorflow-in-practice">course</a> is cited as the advised preparation for the exam. The notebooks below cover the various aspects of the course. These are not complete tutorials, but more study notes.
 
-  1. DL_part1.ipynb - (Part 1 : Category 1 & 2)
+  1. DL_part1.ipynb - Part 1 : Category 1 & 2
+  2. DL_part2.ipynb - Part 2 : Category 3
   
 #### DL_part1.ipynb
 
-Notebook covering the basics of the TF specilization course, part 1, weeks 1 - 4.
+Notebook covering the basics of the TF specilization course, part 1, weeks 1 - 4. Includes training a simple model to estimate a linear function, using learning datasets and visualizing convolution outputs.
 
 <a href="https://colab.research.google.com/drive/12sw0DfFxHdW-B4L_o079lKaeR1sKL-cz">Open in Google Colab</a>
+
+#### DL_part2.ipynb
+
+Notebook covering CNNs on real-world image datasets. Topics include data augmentation, dropout and transfer learning.
+
+Note: To practice on real-world datasets, one can use the following <a href="https://www.kaggle.com/general/74235">guide</a> for downloading kaggle datasets in colab.
+
+<a href="https://colab.research.google.com/drive/1g4bkiHLhgXB7-mAg7D2kUlnShU6rOxbW">Open in Google Colab</a>
 
 (IN-PROGRESS)
 
