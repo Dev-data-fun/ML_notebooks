@@ -68,9 +68,15 @@ Google have launched <a href="https://www.tensorflow.org/certificate">TF certifi
   4. NLP Text Classification with real-world text dataset
   5. Sequence Model with real-world numeric dataset
   
-Each of these are covered in the notebooks below:
+This <a href="https://www.coursera.org/specializations/tensorflow-in-practice">course</a> is cited as the advised preparation for the exam. The notebooks below cover the various aspects of the course. These are not complete tutorials, but more study notes.
 
-  1. DL_part1.ipynb - (Category 1 & 2)
+  1. DL_part1.ipynb - (Part 1 : Category 1 & 2)
+  
+#### DL_part1.ipynb
+
+Notebook covering the basics of the TF specilization course, part 1, weeks 1 - 4.
+
+<a href="https://colab.research.google.com/drive/12sw0DfFxHdW-B4L_o079lKaeR1sKL-cz">Open in Google Colab</a>
 
 (IN-PROGRESS)
 
