@@ -68,10 +68,11 @@ Google have launched <a href="https://www.tensorflow.org/certificate">TF certifi
   4. NLP Text Classification with real-world text dataset
   5. Sequence Model with real-world numeric dataset
   
-This <a href="https://www.coursera.org/specializations/tensorflow-in-practice">course</a> is cited as the advised preparation for the exam. The notebooks below cover the various aspects of the course. These are not complete tutorials, but more study notes.
+This <a href="https://www.coursera.org/specializations/tensorflow-in-practice">course</a> is cited as the advised preparation for the exam, it is split into 4 parts. The notebooks below cover the various aspects of the course. These are not complete tutorials, but more study notes.
 
   1. DL_part1.ipynb - Part 1 : Category 1 & 2
   2. DL_part2.ipynb - Part 2 : Category 3
+  3. DL_part3.ipynb - Part 3 : Category 4
   
 #### DL_part1.ipynb
 
@@ -86,6 +87,14 @@ Notebook covering CNNs on real-world image datasets. Topics include data augment
 Note: To practice on real-world datasets, one can use the following <a href="https://www.kaggle.com/general/74235">guide</a> for downloading kaggle datasets in colab.
 
 <a href="https://colab.research.google.com/drive/1g4bkiHLhgXB7-mAg7D2kUlnShU6rOxbW">Open in Google Colab</a>
+
+#### DL_part3.ipynb
+
+Notebook covering Natural Language Processing. Topics include text preparation, text classification, visualization and text generation. 
+
+Note: Character level prediction is omitted from this notebook, however it is covered in the Shrekining.ipynb notebook above.
+
+<a href="https://colab.research.google.com/drive/1F1-A1Tup2lL3xDecKedJEDDDJvmVxxL_">Open in Google Colab</a>
 
 (IN-PROGRESS)
 
