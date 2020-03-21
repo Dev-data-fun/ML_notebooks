@@ -51,12 +51,19 @@ A notebook exploring decision trees, random forests and gradient boosting trees 
 Current notebooks:
 
   1. DimReduction&Proj.ipynb
+  2. 1CyclePolicy.ipynb
 
 #### DimReduction&Proj.ipynb
 
 A notebook exploring 4 dimension reduction techniques (2 linear, 2 manifold) on toy sklearn datasets. Projections are made into 2D and 3D spaces to see strengths/weaknesses of the methods.
 
 <a href="https://colab.research.google.com/drive/11RL8cFnpsKxjJJshCumI7zBvDdyNLo9B">Open in Google Colab</a>
+
+#### 1CyclePolicy.ipynb
+
+A notebook exploring the 1-cycle learning policy introduced by Leslie Smith <a href="https://arxiv.org/abs/1708.07120">here</a>.
+
+<a href="https://colab.research.google.com/drive/1jG4-A01_HdO-KZPu8oeACM8as_FZ0c5C">Open in Google Colab</a>
 
 ## TF Certification
 
