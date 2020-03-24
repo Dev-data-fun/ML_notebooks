@@ -81,6 +81,7 @@ This <a href="https://www.coursera.org/specializations/tensorflow-in-practice">c
   2. DL_part2.ipynb - Part 2 : Category 3
   3. DL_part3.ipynb - Part 3 : Category 4
   4. DL_part4.ipynb - Part 4 : Category 5
+  5. ObjectDetection.ipynb 
   
 #### DL_part1.ipynb
 
@@ -111,5 +112,13 @@ Notebook covering time-series modelling, including how to prepare the data using
 Note: The notebook covers predicting the following time step from a previous window. To see how we may predict a window in the future from a previous window please make reference to the TimeSeriesModelling.ipynb notebook above.
 
 <a href="https://colab.research.google.com/drive/1GUUt2eNUksEHoaoZ3T0Rw2Ee-qVI4XfQ">Open in Google Colab</a>
+
+#### ObjectDetection.ipynb
+
+Object detection is listed as a requirement for the TF certification, this notebook covers using both the object detection API, as well as TF Hub. 
+
+(IN-PROGRESS)
+
+<a href="https://colab.research.google.com/drive/1o0_ULEQgm1Zev_WsH-loSH61eadBciVd">Open in Google Colab</a>
 
  
