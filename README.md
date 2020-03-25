@@ -11,6 +11,7 @@ Current notebooks:
   1. Shrekining.ipynb
   2. TimeSeriesModelling.ipynb
   3. VAE.ipynb
+  4. ObjectDetection.ipynb
   
 #### Shrekining.ipynb
 
@@ -33,6 +34,13 @@ visualization. The notebook contains gifs/images of the model generating and rec
 horses and humans and even Donald Trump.
 
 <a href="https://colab.research.google.com/drive/1QFmbOz8IQFOTyzQxfQYCoLDQ36rYw0By">Open in Google Colab</a>
+
+#### ObjectDetection.ipynb
+
+A notebook covering easy object detection through the use of TF Hub. The theory and evolution behind the FasterR-CNN model (R-CNN ==> FastR-CNN ==> FRCNN) 
+is discussed prior to loading the model and performing detection.
+
+<a href="https://colab.research.google.com/drive/1o0_ULEQgm1Zev_WsH-loSH61eadBciVd">Open in Google Colab</a>
 
 ## Trees
 
@@ -81,7 +89,6 @@ This <a href="https://www.coursera.org/specializations/tensorflow-in-practice">c
   2. DL_part2.ipynb - Part 2 : Category 3
   3. DL_part3.ipynb - Part 3 : Category 4
   4. DL_part4.ipynb - Part 4 : Category 5
-  5. ObjectDetection.ipynb 
   
 #### DL_part1.ipynb
 
@@ -113,12 +120,6 @@ Note: The notebook covers predicting the following time step from a previous win
 
 <a href="https://colab.research.google.com/drive/1GUUt2eNUksEHoaoZ3T0Rw2Ee-qVI4XfQ">Open in Google Colab</a>
 
-#### ObjectDetection.ipynb
 
-Object detection is listed as a requirement for the TF certification, this notebook covers using both the object detection API, as well as TF Hub. 
-
-(IN-PROGRESS)
-
-<a href="https://colab.research.google.com/drive/1o0_ULEQgm1Zev_WsH-loSH61eadBciVd">Open in Google Colab</a>
 
  
