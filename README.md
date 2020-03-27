@@ -77,13 +77,15 @@ A notebook exploring the 1-cycle learning policy introduced by Leslie Smith <a h
 
 (IN PROGRESS)
 
-Current notebooks:
+### AccidentalDrugDeaths
 
-  1. AccidentalDrugDeaths.ipynb
+Notebooks:
+
+  1. DataCleaning.ipynb
   
-#### AccidentalDrugDeaths.ipynb
+#### DataCleaning.ipynb
 
-A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and imputing missing data and dropping rows containing NaN values in select columns.
+A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and imputing missing data, dropping rows containing NaN values in select columns and looking at word frequencies to determine possible classes for a column.
 
 ## TF Certification
 
