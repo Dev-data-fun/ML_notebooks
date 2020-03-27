@@ -85,7 +85,7 @@ Notebooks:
   
 #### DataCleaning.ipynb
 
-A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and imputing missing data, dropping rows containing NaN values in select columns and looking at word frequencies to determine possible classes for a column.
+A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and handling missing data, dropping rows based on column criterion and looking at word frequencies to determine possible classes for a column.
 
 ## TF Certification
 
