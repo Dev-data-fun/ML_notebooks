@@ -73,6 +73,18 @@ A notebook exploring the 1-cycle learning policy introduced by Leslie Smith <a h
 
 <a href="https://colab.research.google.com/drive/1jG4-A01_HdO-KZPu8oeACM8as_FZ0c5C">Open in Google Colab</a>
 
+## DS Concepts
+
+(IN PROGRESS)
+
+Current notebooks:
+
+  1. AccidentalDrugDeaths.ipynb
+  
+#### AccidentalDrugDeaths.ipynb
+
+A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and imputing missing data and dropping rows containing NaN values in select columns.
+
 ## TF Certification
 
 Google have launched <a href="https://www.tensorflow.org/certificate">TF certification</a>. The exam is spread across 5 categories:
