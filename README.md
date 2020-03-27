@@ -1,6 +1,6 @@
 # Machine Learning Notebooks
 
-Housing for ML notebook tutorials. Goal is to write more in depth explanations as text tutorials and use the notebooks below for demonstration. 
+Housing for ML notebook tutorials. Goal is to write more in depth explanations as text tutorials and use some of the notebooks below for demonstration. 
 
 ## Neural Networks (Tensorflow2)
 
