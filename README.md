@@ -75,8 +75,6 @@ A notebook exploring the 1-cycle learning policy introduced by Leslie Smith <a h
 
 ## DS Concepts
 
-(IN PROGRESS)
-
 ### AccidentalDrugDeaths
 
 Notebooks:
@@ -84,6 +82,18 @@ Notebooks:
   1. DataCleaning.ipynb
   2. DataVisualization.ipynb
   
+### TrumpTweets
+
+Notebooks:
+
+  1. SentimentalTrump.ipynb
+
+#### SentimentalTrump.ipynb
+
+Trumps tweets since 2009 were downloaded for sentiment analysis over the years.
+
+(IN PROGRESS)
+
 #### DataCleaning.ipynb
 
 A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and handling missing data, dropping rows based on column criterion and looking at word frequencies to determine possible classes for a column.
