@@ -81,7 +81,19 @@ Notebooks:
 
   1. DataCleaning.ipynb
   2. DataVisualization.ipynb
-  
+
+#### DataCleaning.ipynb
+
+A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and handling missing data, dropping rows based on column criterion and looking at word frequencies to determine possible classes for a column.
+
+<a href="https://colab.research.google.com/drive/19Ra6dzhwQPA86NBJEVhIoKqctBY-xo_F">Open in Google Colab</a>
+
+#### DataVisualization.ipynb
+
+A notebook covering data visualization for the Accidental Drug Deaths dataset. We explore how to plot results, reordering the results so we may plot in ascending/descending order, looking at class dominances, looking at trends between age/sex and year in the relation to overdose count, amongst other relationships between the data.
+
+<a href="https://colab.research.google.com/drive/1LBHUHI0uWnWxFN2bTwsCasVqucqY1XK4">Open in Google Colab</a>
+
 ### TrumpTweets
 
 Notebooks:
@@ -93,14 +105,6 @@ Notebooks:
 Trumps tweets since 2009 were downloaded for sentiment analysis over the years.
 
 (IN PROGRESS)
-
-#### DataCleaning.ipynb
-
-A notebook covering data cleaning and preparation prior to visualisation. The dataset used is the Accidental Drug Deaths from <a href="https://catalog.data.gov/dataset">data.gov</a>. The notebook covers setting new indices, dropping unwanted columns, cleaning the data using lambda maps, extracting parts of data using regular expressions, detecting and handling missing data, dropping rows based on column criterion and looking at word frequencies to determine possible classes for a column.
-
-#### DataVisualization.ipynb
-
-A notebook covering data visualization for the Accidental Drug Deaths dataset. We explore how to plot results, reordering the results so we may plot in ascending/descending order, looking at class dominances, looking at trends between age/sex and year in the relation to overdose count, amongst other relationships between the data. 
 
 ## TF Certification
 
